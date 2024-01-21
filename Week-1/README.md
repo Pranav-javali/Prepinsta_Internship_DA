@@ -8,7 +8,6 @@
 
 ## 📊Dashboard:
 
-👩‍💻<b>Technology:</b> Excel PivotTables <br> <br>
 🔒<b>Key Metrics</b> 
 - Bike buyer income distribution and age distribution <i>(Histograms)</i>
 - Purchasing trends across Marital Status and Gender <i>(Bar Charts and Stacked Bar Chart)</i>
