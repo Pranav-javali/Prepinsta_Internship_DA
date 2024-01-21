@@ -12,3 +12,5 @@ This is a Python implementation of the classic "Frog Leap" puzzle game. In this 
 ## Getting Started
 
 To play the game, run the Python script `Frog_Leap.ipynb`. Follow the on-screen instructions to make moves and try to solve the puzzle.
+
+google colab link-https://colab.research.google.com/drive/1FmD9LXWmNZpvmBDGorN_AR1VAp5BXMaN?usp=sharing
